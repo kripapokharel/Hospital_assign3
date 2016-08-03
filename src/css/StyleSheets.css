@@ -1,0 +1,12 @@
+.background {
+    -fx-background-image: url("bck2.jpg");
+
+}
+
+#button {
+    -fx-border-color: red;
+}
+
+#clearbutton {
+    -fx-border-color: black;
+}
